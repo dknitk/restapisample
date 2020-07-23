@@ -13,5 +13,5 @@ Steps to setup the Project:
   PASSWORD: copy the password from the console (IDE).
 7. Hello Page will display.
 
-## Sample Page:
+## Sample Pages:
 
