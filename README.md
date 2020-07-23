@@ -1,4 +1,4 @@
-# restapisample
+# Rest API Development Project
 This project will contain sample Rest API Sample Code. Anyone can download the project and start their development.
 
 Steps to setup the Project:
